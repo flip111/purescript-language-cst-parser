@@ -14,6 +14,7 @@ package:
   - functors
   - identity
   - integers
+  - language-cst-parser
   - lazy
   - lists
   - maybe

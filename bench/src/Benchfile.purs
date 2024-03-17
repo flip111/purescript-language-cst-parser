@@ -1,4 +1,4 @@
-module BenchFile where
+module Benchfile where
 
 import Prelude
 

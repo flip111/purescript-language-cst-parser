@@ -1,0 +1,42 @@
+package:
+  dependencies:
+  - aff
+  - arrays
+  - console
+  - const
+  - control
+  - effect
+  - either
+  - enums
+  - foldable-traversable
+  - free
+  - functions
+  - functors
+  - identity
+  - integers
+  - lazy
+  - lists
+  - maybe
+  - minibench
+  - newtype
+  - node-buffer
+  - node-fs
+  - node-process
+  - numbers
+  - ordered-collections
+  - partial
+  - prelude
+  - st
+  - strings
+  - transformers
+  - tuples
+  - typelevel-prelude
+  - unfoldable
+  - unsafe-coerce
+  name: language-cst-parser-benchmarks
+workspace:
+  extra_packages:
+    language-cst-parser:
+      path: ..
+  package_set:
+    registry: 50.4.0
